@@ -8,4 +8,4 @@
 ![HighwayDodge Screeshot](https://i.imgur.com/nFzz1q3.jpg)
 
 ### Gameplay
-![HighwayDodge Gameplay](https://i.imgur.com/iE0OoYR.gif)
+![HighwayDodge Gameplay](https://github.com/skurnal2/HighwayDodge/blob/master/demo.gif?raw=true)
